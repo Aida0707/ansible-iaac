@@ -5,4 +5,4 @@
     ec2_key:
       name: bastion_host_iaac
       regions: us-east-1
-      key_materials: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCbQe9iCBvMcH4u4IgonQUNYXmG1Vb+TDxH/7pp0YtYMY3SRKpWJ6A9f06JH5lTHqu+dkbWXQd99sAXEiRysmZCDrr2KExsG7Fn1rmPM7whdKVRS9BXUdJxKcfeFdwTvCkFF3LZKdpOPxR3l00B+DMdhQMllo+c1TanUjgZRVu2+jO702ery/ZgW+IqZm2WoO5DX3WRAGxf28K6hB2Xv1zkp1TFYgmXJ0hqCdIh4nfPrDerUpBg6pSKfTvVsYn8U0QnUFyYj7jsc+crIYbeu9Zgpma/u35AfBk4Qkvu4SZubGKs4ss+0/seNzsBmX9mjfObRvqtnCs+ZPHxR+1h3gKl centos@ip-172-31-45-170.eu-west-2.compute.internal'
+      key_material: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDcykkNNGR3RXeR1wbZ2EJNUIh+WZrXhf6aGYdYHirJfvtdggl4qQ0isIhBO2jby/LV5v5+nBkSMXjpQpaG2dR8SAeX3QWGLGPKK0c+fN9WybAYVCVaWbduMaEyZDN8+XfOdJ98rjtO87fpYBnKwdSPddyphPV+KHWEVEd+u2mMEXeobNH9ROHwcMo03vCpRyV998VmNHRvsQiZ9y1iu+ZHKKc7HqlrheBhfnBS63JIEI+re7CAFghu9P1ffs0nMO0tpJYApb8irhYqIgoo9ZyUz0Mw2X6uoKrbZA1sti9t4+RNgzry5cS5sZPkn71v6Wvu1BLCM9YT9lS0lM8MuIY3 iliiasnazaraliev@Iliiass-MacBook-Pro.local' 
