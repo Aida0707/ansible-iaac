@@ -1,0 +1,8 @@
+---
+- hosts: localhost
+  tasks: 
+  - ec2:
+      instance_type: t2.micro
+      image: ami-0323c3dd2da7fb37d
+      count: 1
+      assign_public_ips: yes
