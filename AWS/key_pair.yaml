@@ -4,5 +4,5 @@
   - name: Create key pair using provided key_material
     ec2_key:
       name: bastion_host_iaac
-      regions: us-east-1
+      region: us-east-1
       key_material: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDcykkNNGR3RXeR1wbZ2EJNUIh+WZrXhf6aGYdYHirJfvtdggl4qQ0isIhBO2jby/LV5v5+nBkSMXjpQpaG2dR8SAeX3QWGLGPKK0c+fN9WybAYVCVaWbduMaEyZDN8+XfOdJ98rjtO87fpYBnKwdSPddyphPV+KHWEVEd+u2mMEXeobNH9ROHwcMo03vCpRyV998VmNHRvsQiZ9y1iu+ZHKKc7HqlrheBhfnBS63JIEI+re7CAFghu9P1ffs0nMO0tpJYApb8irhYqIgoo9ZyUz0Mw2X6uoKrbZA1sti9t4+RNgzry5cS5sZPkn71v6Wvu1BLCM9YT9lS0lM8MuIY3 iliiasnazaraliev@Iliiass-MacBook-Pro.local' 
